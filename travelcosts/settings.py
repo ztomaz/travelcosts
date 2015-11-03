@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'travelcosts.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'travelcosts',
-        'USER': 'postgres',
-        'PASSWORD': 'blabla123',
-        'HOST': '127.0.0.1',
-        'PORT': '',
+        'NAME': 'd3es5rle38g2le',
+        'USER': 'hxkdoflnwnzhwu',
+        'PASSWORD': 'aN2Vp7OcJtFjBfKFP49SkDnPgC',
+        'HOST': 'ec2-54-247-170-228.eu-west-1.compute.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
