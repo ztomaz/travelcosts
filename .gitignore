@@ -12,4 +12,4 @@ src/*.egg-info
 lib
 lib64
 staticfiles
-.idea
+.\.idea\
