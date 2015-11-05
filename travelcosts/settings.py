@@ -5,6 +5,8 @@ import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TEMPLATE_DIR = os.path.abspath(os.path.join(BASE_DIR, os.pardir))
+
 STATIC_ROOT = 'staticfiles'
 STATIC_URL = '/static/'
 
@@ -18,7 +20,7 @@ STATICFILES_DIRS = (
 SECRET_KEY = 'i+acxn5(akgsn!sr4^qgf(^m&*@+g1@u^t@=8s@axc41ml*f=s'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 TEMPLATE_DEBUG = True
 
@@ -32,7 +34,8 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'travelcosts'
+    'travelcosts',
+    'home'
 )
 
 MIDDLEWARE_CLASSES = (
@@ -51,7 +54,7 @@ ROOT_URLCONF = 'travelcosts.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [os.path.join(TEMPLATE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
