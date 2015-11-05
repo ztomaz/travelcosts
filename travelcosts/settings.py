@@ -51,7 +51,7 @@ ROOT_URLCONF = 'travelcosts.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -69,14 +69,14 @@ WSGI_APPLICATION = 'travelcosts.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
-
+"""
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
+"""
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
@@ -86,6 +86,7 @@ USE_I18N = True
 USE_L10N = True
 USE_TZ = True
 
+DATABASES = {}
 
 # Parse database configuration from $DATABASE_URL
 DATABASES['default'] = dj_database_url.config()
