@@ -1,1 +1,1 @@
-web: gunicorn travelcosts.wsgi
+web: gunicorn myproject.wsgi --log-file -
