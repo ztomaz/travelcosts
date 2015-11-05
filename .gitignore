@@ -1,5 +1,6 @@
 *.pyc
 *.pyo
+venv
 .installed.cfg
 bin
 develop-eggs
@@ -10,3 +11,4 @@ parts
 src/*.egg-info
 lib
 lib64
+staticfiles
