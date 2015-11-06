@@ -5,13 +5,15 @@ import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEMPLATE_DIR = os.path.abspath(os.path.join(BASE_DIR, os.pardir))
+PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, os.pardir))
 
-STATIC_ROOT = 'staticfiles'
+
+STATIC_ROOT = os.path.join(PROJECT_DIR, '')
+
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'static'),
+  os.path.join(PROJECT_DIR, 'static/'),
 )
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/
@@ -35,7 +37,13 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'travelcosts',
-    'home'
+    'home',
+    'bootstrap_toolkit'
+)
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -54,14 +62,17 @@ ROOT_URLCONF = 'travelcosts.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(TEMPLATE_DIR, 'templates')],
+        'DIRS': [os.path.join(PROJECT_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
+                'django.core.context_processors.static',
                 'django.contrib.messages.context_processors.messages',
+                'django.core.context_processors.i18n',
+                'django.core.context_processors.media',
             ],
         },
     },
@@ -110,3 +121,4 @@ ALLOWED_HOSTS = ['*']
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+
