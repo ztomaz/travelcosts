@@ -8,7 +8,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, os.pardir))
 
 
-STATIC_ROOT = os.path.join(PROJECT_DIR, '')
+STATIC_ROOT = os.path.join(PROJECT_DIR, 'staticfiles')
 
 STATIC_URL = '/static/'
 
@@ -38,7 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'travelcosts',
     'home',
-    'bootstrap_toolkit'
+    # 'bootstrap_toolkit'
 )
 
 STATICFILES_FINDERS = (

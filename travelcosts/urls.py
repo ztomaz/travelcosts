@@ -17,10 +17,11 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
-
+from django.conf.urls.static import static
+from travelcosts import settings
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', 'home.views.index'),
 ]
-urlpatterns += staticfiles_urlpatterns()
+urlpatterns+=static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
