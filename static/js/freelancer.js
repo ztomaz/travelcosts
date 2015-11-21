@@ -15,15 +15,33 @@ $(function() {
     });
 });
 
-// Floating label headings for the contact form
-$(function() {
-    $("body").on("input propertychange", ".floating-label-form-group", function(e) {
-        $(this).toggleClass("floating-label-form-group-with-value", !! $(e.target).val());
-    }).on("focus", ".floating-label-form-group", function() {
-        $(this).addClass("floating-label-form-group-with-focus");
-    }).on("blur", ".floating-label-form-group", function() {
-        $(this).removeClass("floating-label-form-group-with-focus");
+$(".login").click(function () {
+
+    var $content = $(".login_content");
+    //getting the next element
+    //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+    var docElem = document.documentElement,
+		header = document.querySelector( '.navbar-fixed-top' );
+	
+	function scrollY() {
+		return window.pageYOffset || docElem.scrollTop;
+	}
+
+    if ($content.is(':hidden')){
+        classie.add( header, 'navbar-shrink' );
+	    $("html, body").animate({ scrollTop: 0 }, "slow");}
+    $content.slideToggle(500, function () {
+       if (!($content.is(':visible'))){
+           var sy = scrollY();
+		if ( sy <= 300 ) {
+            classie.remove( header, 'navbar-shrink' );}
+		}
+        
     });
+    
+		
+
+
 });
 
 // Highlight the top nav as scrolling occurs

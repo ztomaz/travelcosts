@@ -11,12 +11,30 @@ body {
     
 }
 
+.possibility-image-container-inner {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+.possibility-image-container {
+    height: 100px;
+    position: relative;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
 p {
     font-size: 20px;
 }
 
 p.small {
     font-size: 16px;
+}
+
+.text-center {
+    text-align: center;
 }
 
 #bg {
@@ -65,9 +83,9 @@ header {
 }
 
 header .container {
-    /* position: relative; */
-    padding-top: 50%;
-    /* align-items: center; */
+    position: relative;
+    padding-top: 30%;
+    align-items: center;
 }
 
 header img {
@@ -80,7 +98,7 @@ header .intro-text .name {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    text-align:right
+    text-align:center
     font-weight: 700;
 }
 
@@ -91,11 +109,12 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        position: relative;
+        /* position: relative; */
         /* align-items: center; */
-        padding-top: 20%;
+        /* padding-top: 20%; */
         /* padding-bottom: 50%; */
-        /* align-content: center; */
+        align-content: center;
+        height: 100%;
     }
 
     header .intro-text .name {
@@ -107,14 +126,15 @@ header .intro-text .skills {
     }
 }
 
-@media(min-width:768px) {
     .navbar-fixed-top {
+        background-color: transparent;
         padding: 10px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-
     }
+
+    
 
     .navbar-fixed-top .navbar-brand {
         font-size: 1.5em;
@@ -124,7 +144,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
-        background-color: #18bc9c;
+        background-color: #00cc6a;
         -webkit-transition: background-color 200ms linear;
         -moz-transition: background-color 200ms linear;
         -o-transition: background-color 200ms linear;
@@ -135,13 +155,22 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
-}
 
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
+.navbar header {
+        background-color: #00cc6a;
+}
+
+.navbar-toggle collapsed {
+    background-color: white;
+}
+
+
 
 .navbar a:focus {
     outline: 0;
@@ -150,6 +179,23 @@ header .intro-text .skills {
 
 .navbar .navbar-nav {
     letter-spacing: 1px;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #444444;
 }
 
 .navbar .navbar-nav li a:hover{
@@ -170,6 +216,15 @@ header .intro-text .skills {
 
 section {
     padding: 100px 0;
+}
+
+.login_content {
+
+    background-color: #222222;
+    
+    background-position: center;
+    background-;
+    
 }
 
 section h2 {
@@ -199,6 +254,13 @@ section.success a.active {
     section.first {
         padding-top: 75px;
     }
+}
+
+.ctt{
+    height: 0;
+overflow: hidden;
+display: block;
+line-height:0;
 }
 
 #portfolio .portfolio-item {
@@ -253,10 +315,20 @@ section.success a.active {
     z-index: 2;
 }
 
+
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+.btn {
+    width:100%;
+    color:white;
+    margin-top:10px;
+    
+   
 }
 
 .btn-outline {
@@ -282,6 +354,76 @@ section.success a.active {
     margin-bottom: 0;
     padding-bottom: .5em;
     border-bottom: 1px solid #eee;
+}
+
+input[type='text'], input[type='password'], input[type='email'], textarea {
+    height: 32px;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+input[type='text'], input[type='password'], input[type='email'], textarea, select {
+    background-color: white;
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #bbbbbb !important;
+    border-bottom: none !important;
+    margin: 2px;
+    padding: 2px 4px;
+    text-align: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color: rgb(250, 0, 189);
+    background-image: none;
+    color: rgb(255, 255, 255);
+}
+user agent stylesheetinput {
+    -webkit-appearance: textfield;
+    padding: 1px;
+    background-color: white;
+    border: 2px inset;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+}
+user agent stylesheetinput, textarea, keygen, select, button {
+    margin: 0em;
+    font: 13.3333px Arial;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+user agent stylesheetinput, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
+
+.form-horizontal{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 .floating-label-form-group input,
@@ -352,7 +494,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #00CC6A;
 }
 
 .btn-social {

@@ -1,0 +1,221 @@
+html{
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ebebeb;
+}
+
+body.locked-session {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+h1{
+    /*text-transform: uppercase;*/
+}
+
+h2{
+    /*text-transform: uppercase;*/
+    color: #323232;
+}
+
+
+/* 'generic' links */
+a:link, a:visited, a:active{
+    text-decoration: none;
+    color: #00bbda;
+}
+a.add:link, a.add:visited, a.add:active{
+    color: #22e693;
+}
+
+#content_wrapper{
+    margin-top: 3em; /* the height of statusbar */
+}
+
+/* misc useful stuff */
+.fake-label, label{
+    margin-top: 10px;
+    display: block;
+    font-weight: normal;
+    color: #646464;
+}
+
+div.clear-floats{
+    clear: both;
+}
+
+.hidden{
+    display: none;
+}
+
+.dark *{
+    /* use bright font for categories (and all other buttons)
+       that have dark background */
+    color: #ffffff;
+}
+
+*:disabled, .disabled, .disabled img{
+    opacity: 0.3;
+    cursor: default;
+}
+
+.hoverable{
+    cursor: pointer;
+}
+
+/* controls and widgets and stuff */
+label, .custom-label{
+    color: #999999;
+    display: block;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.form-field .help-text {
+    color: #999999;
+    display: block;
+    font-size: 11px;
+    margin-top: 5px;
+}
+
+.custom-label.description{
+    text-transform: none;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='number'],
+input[type='password'],
+textarea {
+    border-radius: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: 2px solid rgba(180,180,180,0.5);
+
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+input[type='submit'],
+input[type='button'],
+button,
+a.button,
+.fake-button{
+    color: #ffffff;
+    height: 40px;
+    font-size: inherit;
+    text-transform: uppercase;
+    border: none;
+    /*box-shadow: 0 2px 0 rgba(0,0,0,0.2);*/
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+input[type='submit']{ background-color: #22e693; width: 100%; }
+input#static_cancel{ background-color: #ff5a6e; width: 100%; }
+
+select{
+    border: none;
+    background-color: #c8c8c8;
+    color: #646464;
+    height: 40px;
+    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+
+    box-sizing: border-box;
+    width: 100%;
+    -moz-box-sizing: border-box;
+}
+
+.no-shadow{
+    box-shadow: none;
+}
+
+.contain-floats{
+    overflow: hidden; /* the div will expand so that floats inside don't overflow */
+}
+
+/* custom dialogs */
+.fullscreen-shadow{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background-color: #000000;
+    opacity: 0.4;
+    z-index: 5001;
+
+}
+
+.custom-dialog-container {
+    z-index: 5002;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+
+    transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+
+    background-color: #f7f7f7;
+}
+
+.custom-dialog-title{
+    position: relative;
+    /* padding: 30px; */
+}
+
+.custom-dialog-container{
+    padding: 30px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.custom-dialog-container .custom-dialog-content{
+    margin-top: 30px;
+}
+
+.custom-dialog-container .custom-dialog-close-button{
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    width: 24px;
+    height: 24px;
+
+    /* background-image is set in base.html */
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.custom-dialog-footer{
+    clear: both;
+    text-align: right;
+}
+
+.custom-dialog-footer input,
+.custom-dialog-footer button{
+    width: 150px;
+    margin-top: 30px;
+    /* margin-left: 10px; */
+}
+
+.custom-dialog-footer input.cancel,
+.custom-dialog-footer button.cancel{
+    background-color: #ff5a6e;
+}
+
+.custom-dialog-footer input.save,
+.custom-dialog-footer button.save,
+.custom-dialog-footer input.ok,
+.custom-dialog-footer button.ok{
+    background-color: #22e693;
+    margin-left: 30px;
+}
+

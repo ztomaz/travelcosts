@@ -2,593 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14435497-f53f-44f5-b084-918ce568928c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.a1be54f070f4.a1be54f070f4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.a1be54f070f4.a1be54f070f4.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.a1be54f070f4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.a1be54f070f4.js.8bf9dd8a0898.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.a1be54f070f4.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.js.ed7240e1209c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_toolkit/js/init_datepicker.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.659231dde1c5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.659231dde1c5.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.ca7ee393ea21.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.ca7ee393ea21.map.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.bf3499da1c31.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.bf3499da1c31.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.957474c344c7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.957474c344c7.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.ea05728a43ea.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.ea05728a43ea.map.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.5d5357cb3704.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.5d5357cb3704.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/freelancer.5bbf84a4e7e8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/freelancer.5bbf84a4e7e8.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/freelancer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/freelancer.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.css.ad2f35faf802.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.d624542d8e66.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.d624542d8e66.css.da4c87e45082.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.d624542d8e66.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.d624542d8e66.d624542d8e66.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/css/datepicker.d624542d8e66.d624542d8e66.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.e20d794ecd9c.e20d794ecd9c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.e20d794ecd9c.e20d794ecd9c.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.e20d794ecd9c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.e20d794ecd9c.js.bd56c4844b37.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.e20d794ecd9c.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.js.631daece5468.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/bootstrap-datepicker.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.c394f59b94d8.c394f59b94d8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.c394f59b94d8.c394f59b94d8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.c394f59b94d8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.c394f59b94d8.js.6d7f3a10b036.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.c394f59b94d8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.js.d1511a512546.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ar.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.e60dc33e00b5.e60dc33e00b5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.e60dc33e00b5.e60dc33e00b5.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.e60dc33e00b5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.e60dc33e00b5.js.2ea6e8833884.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.e60dc33e00b5.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.js.7f2a743ff41b.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.bg.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.b652ea76f045.b652ea76f045.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.b652ea76f045.b652ea76f045.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.b652ea76f045.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.b652ea76f045.js.9a65a0cbc125.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.b652ea76f045.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.js.30e057552ebf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ca.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.d51e1ef0a188.d51e1ef0a188.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.d51e1ef0a188.d51e1ef0a188.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.d51e1ef0a188.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.d51e1ef0a188.js.70091242dddf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.d51e1ef0a188.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.js.3f87aea723d1.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.cs.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.8a4de4e566b0.8a4de4e566b0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.8a4de4e566b0.8a4de4e566b0.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.8a4de4e566b0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.8a4de4e566b0.js.e4e457a00201.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.8a4de4e566b0.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.js.541d21de6a5e.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.da.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.48e678c0b45c.48e678c0b45c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.48e678c0b45c.48e678c0b45c.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.48e678c0b45c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.48e678c0b45c.js.23f9b9e71ffd.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.48e678c0b45c.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.js.5dfe517c1852.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.de.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.6c9517419e35.6c9517419e35.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.6c9517419e35.6c9517419e35.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.6c9517419e35.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.6c9517419e35.js.f774d565a5e3.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.6c9517419e35.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.js.3ff7f4c7bc51.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.el.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.ee171e671d27.ee171e671d27.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.ee171e671d27.ee171e671d27.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.ee171e671d27.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.ee171e671d27.js.bbd260b4a683.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.ee171e671d27.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.js.87aeac3c270b.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.es.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.60388f235caf.60388f235caf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.60388f235caf.60388f235caf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.60388f235caf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.60388f235caf.js.ca9e66ad9f3c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.60388f235caf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.js.0010743c8b67.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.et.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.eda2a82f1abf.eda2a82f1abf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.eda2a82f1abf.eda2a82f1abf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.eda2a82f1abf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.eda2a82f1abf.js.f41e04b1450d.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.eda2a82f1abf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.js.a4a979bd3e11.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fi.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.2d87c48b35eb.2d87c48b35eb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.2d87c48b35eb.2d87c48b35eb.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.2d87c48b35eb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.2d87c48b35eb.js.c7ebb1aae36a.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.2d87c48b35eb.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.js.f62edcddec92.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.fr.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.7476419aac21.7476419aac21.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.7476419aac21.7476419aac21.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.7476419aac21.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.7476419aac21.js.a739f5698e8d.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.7476419aac21.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.js.c30daddfed1b.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.he.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.d2fd6f2029d1.d2fd6f2029d1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.d2fd6f2029d1.d2fd6f2029d1.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.d2fd6f2029d1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.d2fd6f2029d1.js.cc2d9c23bad4.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.d2fd6f2029d1.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.js.f8b338cf0d6c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hr.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.7f80f4a10525.7f80f4a10525.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.7f80f4a10525.7f80f4a10525.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.7f80f4a10525.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.7f80f4a10525.js.8381a743b61d.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.7f80f4a10525.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.js.5ef0588af409.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.hu.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.ad4171b36e11.ad4171b36e11.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.ad4171b36e11.ad4171b36e11.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.ad4171b36e11.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.ad4171b36e11.js.b609837ab947.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.ad4171b36e11.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.js.60eab9ec8685.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.id.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.0bcffcd9483f.0bcffcd9483f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.0bcffcd9483f.0bcffcd9483f.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.0bcffcd9483f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.0bcffcd9483f.js.a34bb720022c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.0bcffcd9483f.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.js.c4e83240b081.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.is.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.1b91206d89bf.1b91206d89bf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.1b91206d89bf.1b91206d89bf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.1b91206d89bf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.1b91206d89bf.js.a5dd60af22ec.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.1b91206d89bf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.js.ac40b08f5446.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.it.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.edc2c85ed0bc.edc2c85ed0bc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.edc2c85ed0bc.edc2c85ed0bc.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.edc2c85ed0bc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.edc2c85ed0bc.js.8c55818c63a4.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.edc2c85ed0bc.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.js.dfa332611828.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ja.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.1fe72afc53aa.1fe72afc53aa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.1fe72afc53aa.1fe72afc53aa.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.1fe72afc53aa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.1fe72afc53aa.js.7aebef451d87.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.1fe72afc53aa.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.js.7678ccb1a24c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.kr.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.4c7f87bb3624.4c7f87bb3624.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.4c7f87bb3624.4c7f87bb3624.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.4c7f87bb3624.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.4c7f87bb3624.js.84321824866e.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.4c7f87bb3624.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.js.51af6264c48f.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lt.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.0cc44acf6d03.0cc44acf6d03.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.0cc44acf6d03.0cc44acf6d03.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.0cc44acf6d03.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.0cc44acf6d03.js.317dde6b2ae0.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.0cc44acf6d03.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.js.3ae93450f1bf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.lv.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.e53cc41e515b.e53cc41e515b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.e53cc41e515b.e53cc41e515b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.e53cc41e515b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.e53cc41e515b.js.4d082bff7461.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.e53cc41e515b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.js.c9ddaf8daa1b.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.mk.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.d31bb70d0a39.d31bb70d0a39.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.d31bb70d0a39.d31bb70d0a39.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.d31bb70d0a39.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.d31bb70d0a39.js.23ea01f9bdf5.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.d31bb70d0a39.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.js.2413a5f2e47d.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ms.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.49a64a01043e.49a64a01043e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.49a64a01043e.49a64a01043e.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.49a64a01043e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.49a64a01043e.js.38cc15d2f647.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.49a64a01043e.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.js.d857e2a54566.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nb.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.f5fe1c76037f.f5fe1c76037f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.f5fe1c76037f.f5fe1c76037f.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.f5fe1c76037f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.f5fe1c76037f.js.4a9b702bf6e2.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.f5fe1c76037f.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.js.29a0a0d79fd5.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.nl.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.dd4533c688c9.dd4533c688c9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.dd4533c688c9.dd4533c688c9.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.dd4533c688c9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.dd4533c688c9.js.8f01f1b49a23.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.dd4533c688c9.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.js.87c5253b51e9.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pl.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.2b702f10c904.2b702f10c904.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.2b702f10c904.2b702f10c904.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.2b702f10c904.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.2b702f10c904.js.51a0cb387762.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.2b702f10c904.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.js.69c7c106a507.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt-BR.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.eeaddf9352f0.eeaddf9352f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.eeaddf9352f0.eeaddf9352f0.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.eeaddf9352f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.eeaddf9352f0.js.3813afc4300b.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.eeaddf9352f0.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.js.ee76e612a763.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.pt.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.c69b7e00fbd7.c69b7e00fbd7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.c69b7e00fbd7.c69b7e00fbd7.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.c69b7e00fbd7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.c69b7e00fbd7.js.3ade057ce5e0.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.c69b7e00fbd7.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.js.ed020a3f2d72.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ro.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.2a4776529417.2a4776529417.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.2a4776529417.2a4776529417.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.2a4776529417.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.2a4776529417.js.bf036be9df9f.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.2a4776529417.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.js.a6e043c87d0d.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs-latin.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.83ccd03ad063.83ccd03ad063.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.83ccd03ad063.83ccd03ad063.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.83ccd03ad063.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.83ccd03ad063.js.57b0139250cb.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.83ccd03ad063.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.js.8145f72e6ba6.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.rs.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.8abba9b1e439.8abba9b1e439.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.8abba9b1e439.8abba9b1e439.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.8abba9b1e439.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.8abba9b1e439.js.c1746825dc1e.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.8abba9b1e439.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.js.ac3bd8e3b6e7.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.ru.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.f425a563a1aa.f425a563a1aa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.f425a563a1aa.f425a563a1aa.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.f425a563a1aa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.f425a563a1aa.js.3fe20425c753.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.f425a563a1aa.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.js.83c73942ce29.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sk.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.5d6f3e7bed8d.5d6f3e7bed8d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.5d6f3e7bed8d.5d6f3e7bed8d.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.5d6f3e7bed8d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.5d6f3e7bed8d.js.243f82328080.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.5d6f3e7bed8d.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.js.391dbed29409.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sl.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.6c1d7a1e4d9b.6c1d7a1e4d9b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.6c1d7a1e4d9b.6c1d7a1e4d9b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.6c1d7a1e4d9b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.6c1d7a1e4d9b.js.108e386f182e.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.6c1d7a1e4d9b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.js.2164344ea2ec.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sq.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.f0d8bcf52c1b.f0d8bcf52c1b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.f0d8bcf52c1b.f0d8bcf52c1b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.f0d8bcf52c1b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.f0d8bcf52c1b.js.6f57249fb114.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.f0d8bcf52c1b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.js.e0e71c6ac201.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sv.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.2f01204f639b.2f01204f639b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.2f01204f639b.2f01204f639b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.2f01204f639b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.2f01204f639b.js.caedadcc8bbd.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.2f01204f639b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.js.0da4e6b34ac0.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.sw.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.2ce9201bd103.2ce9201bd103.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.2ce9201bd103.2ce9201bd103.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.2ce9201bd103.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.2ce9201bd103.js.8363785291b8.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.2ce9201bd103.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.js.6bf890b733f9.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.th.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.5e27962b42d9.5e27962b42d9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.5e27962b42d9.5e27962b42d9.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.5e27962b42d9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.5e27962b42d9.js.2029793ac045.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.5e27962b42d9.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.js.1efdf38bd96c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.tr.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.19915303ddbf.19915303ddbf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.19915303ddbf.19915303ddbf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.19915303ddbf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.19915303ddbf.js.8b60a05f5a76.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.19915303ddbf.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.js.e47607d09e02.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.uk.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.70fb69461de7.70fb69461de7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.70fb69461de7.70fb69461de7.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.70fb69461de7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.70fb69461de7.js.2a20bf9af028.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.70fb69461de7.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.js.b048d5f5ec0c.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-CN.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.7c24a12e3420.7c24a12e3420.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.7c24a12e3420.7c24a12e3420.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.7c24a12e3420.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.7c24a12e3420.js.8f248ce5359d.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.7c24a12e3420.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.js.90eb801d419a.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/datepicker/js/locales/bootstrap-datepicker.zh-TW.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.701a71639862.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.701a71639862.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.feda974a77ea.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.feda974a77ea.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.19231917733e.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.19231917733e.otf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.65bcbc899f37.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.65bcbc899f37.svg.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.7149833697a9.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.c4668ed2440d.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.c4668ed2440d.ttf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.d95d6f5d5ab7.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.5b3f3e1353ea.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.5b3f3e1353ea.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/core.b5507859b83e.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/core.b5507859b83e.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/core.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/fixed-width.5e07ec001f8d.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.65493b74c9bf.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.65493b74c9bf.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/icons.2e03dd427613.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/icons.2e03dd427613.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/icons.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/larger.8cb65280c0f8.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/larger.8cb65280c0f8.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/larger.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/list.975571323cf8.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/list.975571323cf8.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/list.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/mixins.3a0108713f34.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/mixins.3a0108713f34.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/mixins.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/path.baaf503b6821.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/path.baaf503b6821.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/path.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.a8476cdc50c2.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.a8476cdc50c2.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/spinning.f7ceb182bd98.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/spinning.f7ceb182bd98.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/spinning.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/stacked.518e2b2d2639.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/stacked.518e2b2d2639.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/stacked.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/variables.d40d1e811702.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/variables.d40d1e811702.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/variables.less.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.e4f85472a1f6.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.e4f85472a1f6.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_core.5a0ac7971038.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_core.5a0ac7971038.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_core.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.9277ab6964a4.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_icons.18308d3f7218.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_icons.18308d3f7218.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_icons.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_larger.e95931566f6f.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_larger.e95931566f6f.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_larger.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_list.7107e80b0539.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_list.7107e80b0539.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_list.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_mixins.e0baf3cfd00f.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_mixins.e0baf3cfd00f.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_path.ac2a848f68cf.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_path.ac2a848f68cf.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_path.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.9f5d4bc6fade.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.9f5d4bc6fade.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_spinning.7dcbea35ea3e.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_spinning.7dcbea35ea3e.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_spinning.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_stacked.5594237226ae.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_stacked.5594237226ae.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_variables.259f90841b8d.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_variables.259f90841b8d.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_variables.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.6adfa5c642be.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.6adfa5c642be.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.448c34a56d69.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.89889688147b.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.89889688147b.svg.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.e18bbf611f2a.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.e18bbf611f2a.ttf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.f4769f9bdb74.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.fa2772327f55.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cabin.56ec4ee72a91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cabin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cake.a29c0b43958b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/circus.e27c88e55591.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/circus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/game.107d31e81b23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/game.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/safe.7dfdcf559d33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/safe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/submarine.8fad4ff92040.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/submarine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.55a31366f919.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.8015042d0b4a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.8015042d0b4a.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.4becdc910462.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.4becdc910462.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.c450e7852dc1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.c450e7852dc1.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.351d2a625caa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.351d2a625caa.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/classie.a9df1cfb76ce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/classie.a9df1cfb76ce.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/classie.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_me.046cfaa352ed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_me.046cfaa352ed.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_me.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/freelancer.dab54c4a12f9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/freelancer.dab54c4a12f9.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/freelancer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/freelancer.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.dcd9f481ad3b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.dcd9f481ad3b.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.3c9137d88a00.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.3c9137d88a00.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.ccb7f3909e30.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.ccb7f3909e30.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/profile.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.simpleMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/web/bootstrap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/ttt.jpg" afterPath="$PROJECT_DIR$/static/img/ttt.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/models.py" afterPath="$PROJECT_DIR$/home/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/freelancer.css" afterPath="$PROJECT_DIR$/static/css/freelancer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/freelancer.js" afterPath="$PROJECT_DIR$/static/js/freelancer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelcosts/settings.py" afterPath="$PROJECT_DIR$/travelcosts/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelcosts/urls.py" afterPath="$PROJECT_DIR$/travelcosts/urls.py" />
     </list>
     <ignored path="travelcosts.iws" />
@@ -614,17 +43,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/travelcosts/settings.py">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9081803">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state vertical-scroll-proportion="-1.2692307">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/web/bootstrap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.26923">
+              <caret line="73" column="6" selection-start-line="55" selection-start-column="0" selection-end-line="73" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.simpleMenu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/jquery.simpleMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31011608">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-144.5">
+              <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -637,14 +161,21 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/travelcosts/wsgi.py" />
         <option value="$PROJECT_DIR$/home/index.html" />
-        <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/travelcosts/settings_local.py" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/travelcosts/urls.py" />
         <option value="$PROJECT_DIR$/templates/home/index.html" />
         <option value="$PROJECT_DIR$/travelcosts/settings.py" />
         <option value="/" />
+        <option value="$PROJECT_DIR$/static/js/common.js" />
+        <option value="$PROJECT_DIR$/static/css/base.css" />
+        <option value="$PROJECT_DIR$/static/js/jquery.simpleMenu.js" />
+        <option value="$PROJECT_DIR$/templates/web/bootstrap.html" />
+        <option value="$PROJECT_DIR$/travelcosts/urls.py" />
+        <option value="$PROJECT_DIR$/templates/home/register.html" />
+        <option value="$PROJECT_DIR$/home/views.py" />
+        <option value="$PROJECT_DIR$/home/forms.py" />
+        <option value="$PROJECT_DIR$/home/models.py" />
       </list>
     </option>
   </component>
@@ -703,6 +234,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -736,17 +268,117 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travelcosts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sellout" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -859,6 +491,12 @@
       <tasks />
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
       <envs />
       <method />
     </configuration>
@@ -1022,17 +660,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2703125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3372093" sideWeight="0.12552084" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33298096" sideWeight="0.1453125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33298096" sideWeight="0.8546875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40298507" sideWeight="0.7954071" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1040,11 +680,9 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="manage.py@travelcosts" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3372093" sideWeight="0.8744792" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40298507" sideWeight="0.7954071" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1076,85 +714,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/js/freelancer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python35/Lib/site-packages/django/contrib/staticfiles/handlers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travelcosts/settings_local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travelcosts/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/freelancer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/python35/Lib/site-packages/django/contrib/staticfiles/handlers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1345,14 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1388,31 +939,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/freelancer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="51" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1430,11 +960,143 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22704507">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/travelcosts/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9081803">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2135417">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="531" column="0" selection-start-line="531" selection-start-column="0" selection-end-line="531" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79549396">
+          <caret line="77" column="10" selection-start-line="35" selection-start-column="0" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#form#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-144.5">
+          <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web/bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.26923">
+          <caret line="73" column="6" selection-start-line="55" selection-start-column="0" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.simpleMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2692307">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/auth/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="377" column="6" selection-start-line="377" selection-start-column="6" selection-end-line="377" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31011608">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

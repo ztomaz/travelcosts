@@ -30,7 +30,10 @@ var cbpAnimatedHeader = (function() {
 			classie.add( header, 'navbar-shrink' );
 		}
 		else {
-			classie.remove( header, 'navbar-shrink' );
+
+    	var $content = $(".login_content");
+    	if (!($content.is(':visible'))){
+            classie.remove( header, 'navbar-shrink' );}
 		}
 		didScroll = false;
 	}

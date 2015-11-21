@@ -1,0 +1,78 @@
+{% load i18n %}
+{% load static %}
+{% get_current_language as LANGUAGE_CODE %}
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    {% if LANGUAGE_CODE == "en" %}
+        <meta name="description" content="Sellout free POS system">
+        <meta name="keywords" content="sellout, pos, free pos system">
+        <meta name="author" content="Blocklogic d.o.o.">
+    {% elif LANGUAGE_CODE == "si" %}
+        <meta name="description" content="brezplačna spletna blagajna">
+        <meta name="keywords" content="brezplačna spletna blagajna, POS, blagajna, brezplačna">
+        <meta name="author" content="Blocklogic d.o.o.">
+    {% endif %}
+
+    <title>{% block title %}{% endblock %}</title>
+
+    {# scripts #}
+    <script type="text/javascript" src="{% url 'django.views.i18n.javascript_catalog' %}"></script>
+
+    <script type="text/javascript" src="{% static 'js/jquery.js' %}"></script>
+
+    <script type="text/javascript" src="{% static 'js/jquery.simpleMenu.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/common.js' %}"></script>
+
+    <script src="{% static 'js/common.js' %}"></script>
+
+    {# Bootstrap core CSS #}
+    <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet">
+
+    {# Custom styles for this template  #}
+    <link href="{% static 'css/freelancer.css' %}" rel="stylesheet">
+
+    {# common styles for the whole site #}
+    <link href="{% static 'css/base.css' %}" rel="stylesheet">
+
+    <script type="text/javascript">
+        // the ommnipresent keyboard object
+        $(window).load(function(){
+            window.keyboard = new Keyboard();
+        });
+    </script>
+
+    {% block head %}{% endblock %}
+</head>
+
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top custom sellout-background" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="{% url 'index' %}">
+                {% if LANGUAGE_CODE == "en" %}
+                    <img src="{% static 'icons/logo_white.png' %}" alt="Sellout" id="logo" />
+                {% elif LANGUAGE_CODE == "si" %}
+                    <img src="{% static 'icons/spletna_blagajna_logo_white.png' %}" alt="Spletna blagajna" id="logo" />
+                {% endif %}
+            </a>
+        </div>
+{#        <div id="beta_stripe"></div>#}
+        <div id="navbar">
+            {% block navbar_buttons %}{% endblock %}
+        </div>
+        <!--/.navbar-collapse -->
+    </div>
+</nav>
+
+
+</body>
+</html>

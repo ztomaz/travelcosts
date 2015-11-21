@@ -20,8 +20,18 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.conf.urls.static import static
 from travelcosts import settings
 
+js_info_dict = {
+    'domain': 'djangojs',
+    'packages': ('messages',),
+}
+
+
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^$', 'home.views.index'),
+    url(r'^$', 'home.views.index', name="index"),
+    url(r'^register/$', 'home.views.register', name='register'),
+
+    url(r'^i18n/', include('django.conf.urls.i18n')),
+    url(r'^jsi18n/$', 'django.views.i18n.javascript_catalog', js_info_dict),
 ]
 urlpatterns+=static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
