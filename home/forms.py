@@ -25,3 +25,16 @@ class MyRegistrationForm(UserCreationForm):
         fields = ("email", "first_name", "last_name") #"country", "images", "sex", )
 
 
+class LoginForm(forms.ModelForm):
+
+    email = forms.EmailField(label="E-mail", required=True, max_length=75,
+                             help_text="Required field. 75 characters or fewer. Letters, digits and @/./+/-/_ characters only.",
+                             error_messages={'invalid': "This value may contain only letters, digits and characters @/./+/-/_."})
+    password = forms.CharField(label="Password", widget=forms.PasswordInput, required=False)
+
+    class Meta:
+        model = TravelcostsUser
+        fields = ("email", "password")
+
+    def set_request(self, request):
+        self.request = request
