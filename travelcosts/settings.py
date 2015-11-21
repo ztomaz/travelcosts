@@ -126,5 +126,6 @@ STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
 try:
     from travelcosts.settings_local import *
+
 except ImportError:
     pass
