@@ -108,11 +108,6 @@ DATABASES = {}
 # Parse database configuration from $DATABASE_URL
 DATABASES['default'] = dj_database_url.config()
 
-DATABASES['default']['CONN_MAX_AGE'] = 500
-
-# Enable Connection Pooling (if desired)
-DATABASES['default']['ENGINE'] = 'django_postgrespool'
-
 # Honor the 'X-Forwarded-Proto' header for request.is_secure()
 # Allowall host headers
 ALLOWED_HOSTS = ['*']

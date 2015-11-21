@@ -18,6 +18,8 @@ class MyRegistrationForm(UserCreationForm):
                                  help_text="Required field. 30 characters or fewer. Letters and numbers only.",
                                  error_messages={'invalid': "This value may contain only letters and numbers."})
 
+
+
     class Meta:
         model = TravelcostsUser
         fields = ("email", "first_name", "last_name") #"country", "images", "sex", )
