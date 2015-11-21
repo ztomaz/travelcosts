@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14435497-f53f-44f5-b084-918ce568928c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/forms.py" afterPath="$PROJECT_DIR$/home/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelcosts/settings.py" afterPath="$PROJECT_DIR$/travelcosts/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelcosts/settings_local.py" afterPath="$PROJECT_DIR$/travelcosts/settings_local.py" />
-    </list>
+    <list default="true" id="14435497-f53f-44f5-b084-918ce568928c" name="Default" comment="" />
     <ignored path="travelcosts.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
