@@ -41,6 +41,8 @@ INSTALLED_APPS = (
     # 'bootstrap_toolkit'
 )
 
+AUTH_USER_MODEL = 'home.TravelcostsUser'
+
 STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
@@ -122,3 +124,7 @@ ALLOWED_HOSTS = ['*']
 # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
+try:
+    from travelcosts.settings_local import *
+except ImportError:
+    pass

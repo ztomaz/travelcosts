@@ -19,7 +19,7 @@ class MyRegistrationForm(UserCreationForm):
                                  error_messages={'invalid': "This value may contain only letters and numbers."})
 
     class Meta:
-        model = TravelcostsUser()
+        model = TravelcostsUser
         fields = ("email", "first_name", "last_name") #"country", "images", "sex", )
 
 

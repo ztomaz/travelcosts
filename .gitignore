@@ -4,6 +4,7 @@ venv
 .installed.cfg
 bin
 develop-eggs
+travelcosts\settings_local.py
 dist
 downloads
 eggs
