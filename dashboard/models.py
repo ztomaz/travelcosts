@@ -22,9 +22,9 @@ COLORS = [  # choices for category.color
 
 
 class Travel(models.Model):
-    name = models.CharField(_("Travel name"), max_length=100, null=False, blank=False)
-    description = models.TextField(_("Description"), null=True, blank=True)
-    color = models.CharField(_("Color"), default=COLORS, blank=False, null=False, max_length=6)
+    name = models.CharField("Travel name", max_length=100, null=False, blank=False)
+    description = models.TextField("Description", null=True, blank=True)
+    color = models.CharField("Color", default=COLORS, blank=False, null=False, max_length=6)
 
     # image has been replaced by color
     # image = models.ImageField(_("Icon"),
@@ -35,15 +35,15 @@ class Travel(models.Model):
         return self.name
 
     class Meta:
-        verbose_name_plural = _("Categories")
+        verbose_name_plural = "Categories"
 
     participants = models.ManyToManyField(TravelcostsUser)
 
 
 class TravelCost(models.Model):
-    name = models.CharField(_("Travel name"), max_length=100, null=False, blank=False)
-    description = models.TextField(_("Description"), null=True, blank=True)
+    name = models.CharField("Travel name", max_length=100, null=False, blank=False)
+    description = models.TextField("Description", null=True, blank=True)
 
-    amount = models.DecimalField(_("Amount"), max_digits=20,
+    amount = models.DecimalField("Amount", max_digits=20,
                                      decimal_places=10, blank=False, null=False)
 
