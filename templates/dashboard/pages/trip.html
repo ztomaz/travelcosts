@@ -1,0 +1,63 @@
+{% extends 'dashboard/template.html' %}
+{% load static %}
+{% load i18n %}
+
+
+{% block head %}
+{% endblock %}
+
+{% block content %}
+    <section>
+        <div class="container">
+            <h2>Test</h2>
+            <form action="{% url 'dashboard:new_trip' %}" method="post" class="custom">
+
+                {{ form.as_p }}
+                <div class="form-errors">
+
+                </div>
+
+                <div class="row">
+                    {% csrf_token %}
+
+                    <div class="col-md-6">
+                        <div class="form-field">
+                            {{ my_form.name.label_tag }}
+                            {{ my_form.name }}
+                            <div class="field-errors">
+
+                            </div>
+                        </div>
+
+                        <div class="form-field">
+                            {{ my_form.description.label_tag }}
+                            {{ my_form.description }}
+                            <div class="field-errors">
+
+                            </div>
+                        </div>
+
+                        <div class="form-field">
+                            {{ my_form.color.label_tag }}
+                            {{ my_form.color }}
+                            <div class="field-errors">
+                                {{ my_form.color.errors }}
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-6">
+
+
+
+
+                        <div class="form-field submit">
+                            <input type="submit" class="buttons" value="'Register'"/>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+{% endblock %}

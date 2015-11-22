@@ -35,6 +35,3 @@ class LoginForm(forms.ModelForm):
     class Meta:
         model = TravelcostsUser
         fields = ("email", "password")
-
-    def set_request(self, request):
-        self.request = request
