@@ -30,6 +30,8 @@ urlpatterns = [
     url(r'^$', 'dashboard.views.dashboard', name="main"),
     url(r'trip', 'dashboard.views.dashboard_new_trip', name="new_trip"),
     url(r'trip/save_travel/', 'dashboard.views.dashboard_new_trip', name="save_travel"),
+    url(r'cost/', 'dashboard.views.edit_cost', name="new_cost"),
+    url(r'support/', 'dashboard.views.support', name="support"),
     url(r'logout', 'home.views.logout'),
 ]
 

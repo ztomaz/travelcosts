@@ -115,7 +115,7 @@ a.button,
     /*box-shadow: 0 2px 0 rgba(0,0,0,0.2);*/
     box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
-input[type='submit']{ background-color: #22e693; width: 100%; }
+input[type='submit']{ background-color: #00cc6a; width: 100%; }
 input#static_cancel{ background-color: #ff5a6e; width: 100%; }
 .save_button {
     color: #ffffff;

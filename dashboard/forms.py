@@ -25,7 +25,28 @@ class TravelForm(ModelForm):
                                  help_text="Required field. 30 characters or fewer. Letters and numbers only.",
                                  error_messages={'invalid': "This value may contain only letters and numbers."})
 
+
+
     class Meta:
         model = Travel
         fields = ("name", "description", "color", "participants")
+
+
+class TravelCostForm(ModelForm):
+
+    name = forms.CharField(label="Name", required=True, max_length=75,
+                             help_text="Required field. 75 characters or fewer. Letters, digits and @/./+/-/_ characters only.",
+                             error_messages={'invalid': "This value may contain only letters, digits and characters @/./+/-/_."})
+    description = forms.RegexField(label="Description", required=True, max_length=30, regex=FIRST_LAST_NAME_REGEX,
+                                  help_text="Required field. 30 characters or fewer. Letters only and numbers only.",
+                                  error_messages={'invalid': "This value may contain only letters and numbers."})
+    location = forms.RegexField(label="Location", required=True, max_length=30, regex=FIRST_LAST_NAME_REGEX,
+                                  help_text="Required field. 30 characters or fewer. Letters only and numbers only.",
+                                  error_messages={'invalid': "This value may contain only letters and numbers."})
+
+    amount = forms.FloatField(label="Amount", required=True)
+
+    class Meta:
+        model = Travel
+        fields = ("name", "description", "location", "amount")
 

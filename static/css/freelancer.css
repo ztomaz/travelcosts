@@ -98,7 +98,7 @@ header .intro-text .name {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    text-align:center
+    text-align:center;
     font-weight: 700;
 }
 
@@ -406,7 +406,6 @@ user agent stylesheetinput {
 user agent stylesheetinput, textarea, keygen, select, button {
     margin: 0em;
     font: 13.3333px Arial;
-    text-rendering: auto;
     color: initial;
     letter-spacing: normal;
     word-spacing: normal;
@@ -457,7 +456,7 @@ user agent stylesheetinput, textarea, keygen, select, button, meter, progress {
     transition: top .3s ease,opacity .3s ease;
 }
 
-.floating-label-form-group::not(:first-child) {
+.floating-label-form-group:not(:first-child) {
     padding-left: 14px;
     border-left: 1px solid #eee;
 }

@@ -4,13 +4,14 @@
 
 
 {% block head %}
+
 {% endblock %}
 
 {% block content %}
     <section>
         <div class="container">
             <h2>Test</h2>
-            <form action="{% url 'dashboard:new_trip' %}" method="post" class="custom">
+            <form action="{% url 'dashboard:new_cost' %}" method="post" class="custom">
 
                 {{ form.as_p }}
                 <div class="form-errors">
@@ -36,13 +37,9 @@
 
                             </div>
                         </div>
-
                         <div class="form-field">
-                            {{ my_form.color.label_tag }}
-                            {{ my_form.color }}
-                            <div class="field-errors">
-                                {{ my_form.color.errors }}
-                            </div>
+                            <p><label for="location">Location:</label>
+                            <input onclick="getLocation()" id="location" type="text" name="location" maxlength="200" /></p>
                         </div>
 
                     </div>
@@ -58,4 +55,22 @@
             </form>
         </div>
     </section>
+
+    <script>
+    var x = document.getElementById("location");
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition);
+        } else {
+            x.innerHTML = "Geolocation is not supported by this browser.";
+        }
+    }
+    function showPosition(position) {
+        x.value = "Latitude: " + position.coords.latitude +
+        " Longitude: " + position.coords.longitude;
+
+        }
+        </script>
 {% endblock %}
+
+
