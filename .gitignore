@@ -14,3 +14,4 @@ lib
 lib64
 staticfiles
 .\.idea\
+vnu.jar
