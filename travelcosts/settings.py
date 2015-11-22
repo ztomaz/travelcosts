@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'travelcosts',
     'home',
+    'dashboard'
     # 'bootstrap_toolkit'
 )
 
