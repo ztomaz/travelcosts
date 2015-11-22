@@ -1,1 +1,1 @@
-web: gunicorn travelcosts.wsgi --log-file -
+web: python travelcosts/manage.py collectstatic --noinput; bin/gunicorn_django --workers=4 --bind=0.0.0.0:$PORT travelcosts/settings.py 
