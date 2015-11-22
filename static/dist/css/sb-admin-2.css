@@ -9,6 +9,8 @@ body {
     height: 100%;
 }
 
+
+
 #wrapper {
     background-color: #e6e6e6;
     height:100%;
@@ -16,6 +18,10 @@ body {
 
 html{
     height:100%;
+}
+
+.dropdown.open>li{
+    background-color:red;
 }
 
 #page-wrapper {
@@ -42,6 +48,15 @@ html{
 }
 
 
+.navbar-top-links li a:hover {
+   color:#323232;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+   background-color: transparent;
+   color:#323232;
+    border-color: #337ab7;
+}
 
 a:focus, a:hover {
     background-color: transparent;

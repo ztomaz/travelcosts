@@ -71,14 +71,14 @@
         </div>
         <!-- /.container-fluid -->
     </nav>
-    <section class="login_content" style="overflow: hidden; display: none;">
-    
-        
+    <section class="login_content" style="display: none;">
+
         {% block content %}
-            <div id="login_content">
-                <form action="." method="post" class="custom">
+            <div id="login_content" >
+                <form action="." method="post" class="custom" style="padding-right:20%;padding-left:20%">
                     {% csrf_token %}
 
+                <h2>Login</h2>
                     {% if next %}
                         <input type="hidden" name="next" value="{{ next }}" />
                     {% endif %}
@@ -87,7 +87,7 @@
                         {{ login_form.non_field_errors }}
                     </div>
 
-                    <div class="form-field" style="color:white">
+                    <div class="form-field" >
                         <div class="field-errors">
                             {{ login_form.email.errors }}
                         </div>
@@ -95,7 +95,7 @@
                         {{ login_form.email }}
                     </div>
 
-                    <div class="form-field" style="color:white">
+                    <div class="form-field">
                     <div class="field-errors">
                             {{ login_form.password.errors }}
                         </div>
@@ -106,12 +106,11 @@
                     <div class="form-message">
                         {% if login_message == 'login-failed' %}
                             <p>Login failed. Check your user name and password.</p>
-                     -
                         {% endif %}
                     </div>
 
                     <div class="nav-links">
-                        <input type="submit" value="Log in" class="btn"style="background-color:#00cc6a" id="login_register_button">
+                        <input type="submit" value="Log in" class="btn" id="login_register_button">
                     </div>
 
                     <div class="lost-login">

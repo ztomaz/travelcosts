@@ -171,7 +171,6 @@ header .intro-text .skills {
 }
 
 
-
 .navbar a:focus {
     outline: 0;
     background-color: red;
@@ -195,17 +194,17 @@ header .intro-text .skills {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #444444;
+  background-color: transparent;
 }
 
 .navbar .navbar-nav li a:hover{
     outline: 0;
-    color:white
+    color:white;
 }
 
 .navbar .navbar-nav li a:focus{
     outline: 0;
-    color:white
+    color:white;
 }
 
 
@@ -220,11 +219,9 @@ section {
 
 .login_content {
 
-    background-color: #222222;
+    background-color: #f5f5f5;
     
     background-position: center;
-    background-;
-    
 }
 
 section h2 {
@@ -235,6 +232,10 @@ section h2 {
 section.success {
     color: #fff;
     background: white;
+}
+
+custom {
+    width:50%;
 }
 
 section.success a,
@@ -325,10 +326,9 @@ line-height:0;
 
 .btn {
     width:100%;
-    color:white;
+    color:black;
+    background-color:00cc6a;
     margin-top:10px;
-    
-   
 }
 
 .btn-outline {
@@ -345,7 +345,7 @@ line-height:0;
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #00CC6A;
     background: #fff;
 }
 
@@ -512,6 +512,22 @@ footer .footer-below {
 .btn:active,
 .btn.active {
     outline: 0;
+    color:white;
+}
+.btn-primary {
+    color: white;
+    background-color: #00CC6A;
+    border-color: black;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:hover,
+.btn-primary:active:focus,
+.btn-primary.focus  {
+    color: #fff;
+    background-color: #00CC6A;
+    border-color: black;
 }
 
 .scroll-top {
@@ -544,6 +560,10 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+}
+
+.lost-login a {
+    color:black;
 }
 
 .portfolio-modal .modal-content h2 {

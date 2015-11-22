@@ -58,7 +58,17 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django.middleware.security.SecurityMiddleware',
+    'htmlvalidator.middleware.HTMLValidator',
 )
+
+
+HTMLVALIDATOR_ENABLED = True
+
+#HTMLVALIDATOR_FAILFAST = True
+
+HTMLVALIDATOR_VNU_JAR = PROJECT_DIR + '/vnu.jar'
+HTMLVALIDATOR_FAILFAST = True
+
 
 ROOT_URLCONF = 'travelcosts.urls'
 
