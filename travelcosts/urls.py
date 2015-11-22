@@ -13,7 +13,7 @@ Including another URLconf
     1. Add an import:  from blog import urls as blog_urls
     2. Add a URL to urlpatterns:  url(r'^blog/', include(blog_urls))
 """
-from django.conf.urls import include, url
+from django.conf.urls import include, url, patterns
 from django.contrib import admin
 
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
@@ -30,10 +30,11 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', 'home.views.index', name="index"),
     url(r'^register/$', 'home.views.register', name='register'),
-    url(r'^dashboard/', include('dashboard.urls', namespace='dashboard')),
+    url(r'^ /', include('dashboard.urls', namespace='dashboard')),
 
     url(r'^i18n/', include('django.conf.urls.i18n')),
     url(r'^jsi18n/$', 'django.views.i18n.javascript_catalog', js_info_dict),
 ]
-urlpatterns+=static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
-
+urlpatterns += patterns('',
+        (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
+    )
