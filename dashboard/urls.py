@@ -31,5 +31,3 @@ urlpatterns = [
     url(r'trip', 'dashboard.views.dashboard_new_trip'),
     url(r'logout', 'home.views.logout'),
 ]
-
-urlpatterns+=static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

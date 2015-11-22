@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14435497-f53f-44f5-b084-918ce568928c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/dashboard/template.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/sb-admin-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/sb-admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/dashboard/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/models.py" afterPath="$PROJECT_DIR$/dashboard/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/urls.py" afterPath="$PROJECT_DIR$/dashboard/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/views.py" afterPath="$PROJECT_DIR$/dashboard/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bower_components/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/static/bower_components/bootstrap/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/dashboard/pages/buttons.html" afterPath="$PROJECT_DIR$/templates/dashboard/pages/buttons.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/dashboard/pages/forms.html" afterPath="$PROJECT_DIR$/templates/dashboard/pages/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/dashboard/pages/index.html" afterPath="$PROJECT_DIR$/templates/dashboard/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/home/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelcosts/settings.py" afterPath="$PROJECT_DIR$/travelcosts/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travelcosts/urls.py" afterPath="$PROJECT_DIR$/travelcosts/urls.py" />
     </list>
     <ignored path="travelcosts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,6 +32,16 @@
     <splitter split-orientation="horizontal" split-proportion="0.5756839">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/travelcosts/settings.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.2618262">
+                  <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/dashboard/template.html">
               <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +74,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="forms.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/dashboard/pages/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6545866">
-                  <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+                <state vertical-scroll-proportion="-14.384615">
+                  <caret line="22" column="11" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
@@ -89,6 +89,16 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
                   <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -108,7 +118,7 @@
             <entry file="file://$PROJECT_DIR$/dashboard/urls.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+                  <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -122,16 +132,6 @@
                   <folding>
                     <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/dashboard/pages/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.9454546">
-                  <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -199,22 +199,22 @@
         <option value="$PROJECT_DIR$/home/models.py" />
         <option value="$PROJECT_DIR$/home/admin.py" />
         <option value="$PROJECT_DIR$/travelcosts/settings_local.py" />
-        <option value="$PROJECT_DIR$/travelcosts/settings.py" />
         <option value="$PROJECT_DIR$/templates/dashboard/dashboard.html" />
         <option value="$PROJECT_DIR$/home/forms.py" />
         <option value="$PROJECT_DIR$/home/views.py" />
-        <option value="$PROJECT_DIR$/travelcosts/urls.py" />
         <option value="$PROJECT_DIR$/templates/home/index.html" />
         <option value="$PROJECT_DIR$/templates/dashboard/index.html" />
         <option value="$PROJECT_DIR$/static/dist/css/sb-admin-2.css" />
         <option value="$PROJECT_DIR$/templates/dashboard/pages/index.html" />
         <option value="$PROJECT_DIR$/templates/dashboard/pages/buttons.html" />
         <option value="$PROJECT_DIR$/templates/dashboard/template.html" />
-        <option value="$PROJECT_DIR$/dashboard/urls.py" />
         <option value="$PROJECT_DIR$/dashboard/views.py" />
         <option value="$PROJECT_DIR$/dashboard/models.py" />
         <option value="$PROJECT_DIR$/dashboard/forms.py" />
         <option value="$PROJECT_DIR$/templates/dashboard/pages/forms.html" />
+        <option value="$PROJECT_DIR$/travelcosts/urls.py" />
+        <option value="$PROJECT_DIR$/dashboard/urls.py" />
+        <option value="$PROJECT_DIR$/travelcosts/settings.py" />
       </list>
     </option>
   </component>
@@ -224,8 +224,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="215" />
-    <option name="width" value="1712" />
+    <option name="x" value="829" />
+    <option name="width" value="1098" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -771,10 +771,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="215" y="0" width="1712" height="1047" extended-state="0" />
+    <frame x="829" y="0" width="1098" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16214623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25415897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33653846" sideWeight="0.1484375" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1009,14 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelcosts/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.8965516">
-          <caret line="108" column="23" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1091,14 +1083,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66169155">
-          <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44941956">
@@ -1144,14 +1128,6 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,8 +1183,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/dashboard/pages/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6545866">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelcosts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelcosts/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2618262">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>

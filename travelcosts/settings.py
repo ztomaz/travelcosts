@@ -13,7 +13,7 @@ STATIC_ROOT = os.path.join(PROJECT_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-  os.path.join(PROJECT_DIR, 'static/'),
+  os.path.join(PROJECT_DIR, 'static'),
 )
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/

@@ -36,3 +36,4 @@ urlpatterns = [
     url(r'^jsi18n/$', 'django.views.i18n.javascript_catalog', js_info_dict),
 ]
 urlpatterns+=static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+
