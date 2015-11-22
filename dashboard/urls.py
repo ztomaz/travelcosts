@@ -28,7 +28,7 @@ js_info_dict = {
 
 urlpatterns = [
     url(r'^$', 'dashboard.views.dashboard', name="main"),
-    url(r'main', 'dashboard.views.dashboard_index'),
+    url(r'trip', 'dashboard.views.dashboard_new_trip'),
     url(r'logout', 'home.views.logout'),
 ]
 

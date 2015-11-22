@@ -45,7 +45,6 @@ def index(request):
     return render(request, "home/index.html", context)
 
 
-
 def login(request, data):
 
     username = data.get('email')
@@ -71,7 +70,7 @@ def register(request):
         form = MyRegistrationForm(request.POST)
         if form.is_valid():
             new_user = form.save()
-            return HttpResponseRedirect("/home/index.html")
+            return HttpResponseRedirect("/home/template.html")
     else:
         form = MyRegistrationForm()
     return render(request, "home/register.html", {

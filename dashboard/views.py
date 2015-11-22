@@ -5,10 +5,9 @@ from django.shortcuts import render
 
 def dashboard(request):
 
-    return render(request, "dashboard/index.html")
+    return render(request, "dashboard/template.html")
 
 
+def dashboard_new_trip(request):
 
-def dashboard_index(request):
-
-    return render(request, "dashboard/pages/index.html")
+    return render(request, "dashboard/pages/forms.html")

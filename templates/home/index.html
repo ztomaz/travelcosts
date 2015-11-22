@@ -73,33 +73,54 @@
     </nav>
     <section class="login_content" style="overflow: hidden; display: none;">
     
-        {% block main %}
-            <div id="login_form">
-                <form class="form-horizontal" name="LoginForm" action="/login/" method="post">
-                {% csrf_token %}
-                {% if next %}
-                    <input type="hidden" name="next" value="{{ next }}" />
-                {% endif %}
-                <div class="control-group">
-                    <label class="control-label" for="username" style="color:white">Email</label>
-                    <div class="controls">
-                        <input type="text" id="username" name="username"  placeholder="Username">
+        
+        {% block content %}
+            <div id="login_content">
+                <form action="." method="post" class="custom">
+                    {% csrf_token %}
+
+                    {% if next %}
+                        <input type="hidden" name="next" value="{{ next }}" />
+                    {% endif %}
+
+                    <div class="form-errors">
+                        {{ login_form.non_field_errors }}
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="password" style="color:white">Password</label>
-                    <div class="controls">
-                        <input type="password" name="password" id="password" placeholder="Password">
+
+                    <div class="form-field" style="color:white">
+                        <div class="field-errors">
+                            {{ login_form.email.errors }}
+                        </div>
+                        {{ login_form.email.label_tag }}
+                        {{ login_form.email }}
                     </div>
-                </div>
-                <div class="control-group">
-                    <div class="controls">
-                        <button type="submit" class="btn" style="background-color:#00cc6a">Login</button>
+
+                    <div class="form-field" style="color:white">
+                    <div class="field-errors">
+                            {{ login_form.password.errors }}
+                        </div>
+                        {{ login_form.password.label_tag }}
+                        {{ login_form.password }}
                     </div>
-                </div>
+
+                    <div class="form-message">
+                        {% if login_message == 'login-failed' %}
+                            <p>Login failed. Check your user name and password.</p>
+                     -
+                        {% endif %}
+                    </div>
+
+                    <div class="nav-links">
+                        <input type="submit" value="Log in" class="btn"style="background-color:#00cc6a" id="login_register_button">
+                    </div>
+
+                    <div class="lost-login">
+                        <a href="{% url 'index' %}"> Lost password? </a>
+                    </div>
                 </form>
             </div>
         {% endblock %}
+      
 
     </section>    
 
@@ -426,7 +447,6 @@
 
     <!-- Contact Form JavaScript -->
     <script src="{% static 'js/jqBootstrapValidation.js' %}" ></script>
-    <script src="{% static 'js/contact_me.js' %}" ></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="{% static 'js/freelancer.js' %}" ></script>
