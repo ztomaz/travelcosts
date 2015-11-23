@@ -1,11 +1,12 @@
 from dashboard.forms import TravelForm, TravelCostForm
 from dashboard.models import Travel, TravelCost
+from django.contrib.auth.decorators import login_required
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 
 # Create your views here.
 
-
+@login_required(redirect_field_name="index")
 def dashboard(request):
 
     return render(request, "dashboard/template.html")
